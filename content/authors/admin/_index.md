@@ -6,20 +6,24 @@ title: Piotr Malicki
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Machine Learning Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: NonSenseVision
   url: ""
+- name: devs-mentoring
+  url: "https://www.devs-mentoring.pl/mentoring"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- X1
+- X1
+- X1
+- X1
+- X1
 
 education:
   courses:
