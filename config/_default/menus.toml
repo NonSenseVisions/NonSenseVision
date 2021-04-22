@@ -14,9 +14,14 @@
   weight = 20
 
 [[main]]
-  name = "blog"
-  url = "blog/"
+  name = "Publication"
+  url = "publication/"
   weight = 30
+
+[[main]]
+  name = "Bookdown"
+  url = "bookdown/"
+  weight = 40
 
 [[main]]
   name = "Contact"
