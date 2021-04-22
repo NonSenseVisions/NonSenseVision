@@ -1,9 +1,9 @@
 +++
 # Accomplishments widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 45  # Order that this section will appear.
 
 title = "Certificate"
 subtitle = ""
@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[experience]]
+[[item]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[experience]]
+[[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
