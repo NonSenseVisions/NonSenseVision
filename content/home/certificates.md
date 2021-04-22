@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
+[[experience]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-[[item]]
+[[experience]]
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
-[[item]]
+[[experience]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
