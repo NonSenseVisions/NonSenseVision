@@ -9,17 +9,17 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
+  name = "Project"
   url = "project/"
   weight = 20
 
 [[main]]
-  name = "Publications"
-  url = "publication/"
+  name = "Publikacje"
+  url = "publikacje/"
   weight = 30
 
 [[main]]
-  name = "Bookdowns"
+  name = "Bookdown"
   url = "bookdown/"
   weight = 40
 
