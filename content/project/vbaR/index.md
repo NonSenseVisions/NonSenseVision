@@ -11,7 +11,7 @@ date: 2021-04-25T09:33:31+02:00
 lastmod: 2021-04-25T09:33:31+02:00
 featured: false
 draft: false
-font: "black"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
