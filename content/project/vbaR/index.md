@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "VbaR"
+title: "vbaR"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,3 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+# vbaR
+
+## vba + R
