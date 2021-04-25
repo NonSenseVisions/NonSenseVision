@@ -27,6 +27,30 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-# vbaR
 
-## vba + R
+<p align="center">
+  <!-- Tests -->
+  <a href="https://github.com/MAIF/shapash/workflows/Build%20%26%20Test/badge.svg">
+    <img src="https://github.com/MAIF/shapash/workflows/Build%20%26%20Test/badge.svg" alt="tests">
+  </a>
+  <!-- PyPi -->
+  <a href="https://img.shields.io/pypi/v/shapash">
+    <img src="https://img.shields.io/pypi/v/shapash" alt="pypi">
+  </a>
+  <!-- Downloads -->
+    <a href="https://static.pepy.tech/badge/shapash">
+    <img src="https://static.pepy.tech/badge/shapash" alt="downloads">
+  </a>
+  <!-- Python Version -->
+  <a href="https://img.shields.io/pypi/pyversions/shapash">
+    <img src="https://img.shields.io/pypi/pyversions/shapash" alt="pyversion">
+  </a>
+  <!-- License -->
+  <a href="https://img.shields.io/pypi/l/shapash">
+    <img src="https://img.shields.io/pypi/l/shapash" alt="license">
+  </a>
+  <!-- Doc -->
+  <a href="https://shapash.readthedocs.io/en/latest/">
+    <img src="https://readthedocs.org/projects/shapash/badge/?version=latest" alt="doc">
+  </a>
+</p>
