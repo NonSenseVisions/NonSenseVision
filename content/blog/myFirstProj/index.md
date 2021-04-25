@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "MyFirstProj"
+title: "My First Post"
 subtitle: ""
 summary: ""
 authors: []
