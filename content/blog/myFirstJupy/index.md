@@ -42,6 +42,11 @@ fig = px.scatter_matrix(
 fig.update_traces(diagonal_visible=False)
 fig.show()
 ```
+
 ```html
-file.html
+content\blog\myFirstJupy\file.html
 ```
+
+\`\`\`html
+<?php insertTemplate("content\blog\myFirstJupy\file.html") ?>
+\`\`\`
