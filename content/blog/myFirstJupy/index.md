@@ -45,4 +45,4 @@ fig.show()
 ## Bosz
 
 {{< load-plotly >}}
-{{< plotly json="/plotly/file.json" height="400px" >}}
+{{< plotly json="/plotly/file.json" height="600px" >}}
