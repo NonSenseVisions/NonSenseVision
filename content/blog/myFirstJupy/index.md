@@ -42,6 +42,7 @@ fig = px.scatter_matrix(
 fig.update_traces(diagonal_visible=False)
 fig.show()
 ```
+## Bosz
 
 <html markdown="1">
 <head><meta charset="utf-8" /></head>
