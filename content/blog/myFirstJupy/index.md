@@ -43,10 +43,6 @@ fig.update_traces(diagonal_visible=False)
 fig.show()
 ```
 
-```html
-content\blog\myFirstJupy\file.html
+```{r, echo=FALSE}
+htmltools::includeHTML("content\blog\myFirstJupy\file.html")
 ```
-
-\`\`\`html
-<?php insertTemplate("content\blog\myFirstJupy\file.html") ?>
-\`\`\`
