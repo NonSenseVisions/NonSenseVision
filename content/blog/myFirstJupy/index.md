@@ -43,9 +43,8 @@ fig.update_traces(diagonal_visible=False)
 fig.show()
 ```
 
-```html
-<!DOCTYPE html>
-<html>
+
+<html markdown="1">
   <head>
     <title>This is a title</title>
   </head>
@@ -53,4 +52,3 @@ fig.show()
     <p>Hello world!</p>
   </body>
 </html>
-```
