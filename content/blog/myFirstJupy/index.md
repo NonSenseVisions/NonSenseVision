@@ -32,6 +32,12 @@ projects: []
 
 
 ```python
+import plotly
+import plotly.graph_objects as go
+```
+
+
+```python
 import warnings
 warnings.filterwarnings('ignore')
 ##
@@ -456,7 +462,7 @@ print(th.md_table(mp_logit.result,formats={-1: 'c'}))
       -> target variable   : 738068 values
       -> model_class       : sklearn.linear_model._logistic.LogisticRegression (default)
       -> label             : Not specified, model's class short name will be used. (default)
-      -> predict function  : <function yhat_proba_default at 0x000001AFA49C0820> will be used (default)
+      -> predict function  : <function yhat_proba_default at 0x0000027B6318D820> will be used (default)
       -> predict function  : Accepts pandas.DataFrame and numpy.ndarray.
       -> predicted values  : min = 0.106, mean = 0.212, max = 1.0
       -> model type        : classification will be used (default)
@@ -465,15 +471,16 @@ print(th.md_table(mp_logit.result,formats={-1: 'c'}))
       -> model_info        : package sklearn
     
     A new explainer has been created!
-    |   recall |   precision |       f1 |   accuracy |      auc |
-    |---------:|------------:|---------:|-----------:|:--------:|
-    | 0.060286 |    0.659911 | 0.110479 |   0.793997 | 0.622691 |
+|   recall |   precision |       f1 |   accuracy |      auc |
+|---------:|------------:|---------:|-----------:|:--------:|
+| 0.060286 |    0.659911 | 0.110479 |   0.793997 | 0.622691 |
     
 
 
 ```python
-fig = mp_logit.plot()
-fig
+fig_mp_logit = mp_logit.plot()
+fig_mp_logit
+plotly.io.write_json(fig_mp_logit,"C:\\Users\\piotr\\Desktop\\Git\\nsvceodeveloper\\static\\plotly\\mp_logit.json") # wywalic
 ```
 
 {{< load-plotly >}}
@@ -481,36 +488,84 @@ fig
 
 
 ```python
-# vi_logit = exp_logit.model_parts()
-# vi_logit.result
+vi_logit = exp_logit.model_parts()
+print(th.md_table(vi_logit.result,formats={-1: 'c'}))
 ```
+
+| variable                  |   dropout_loss | label              |
+|:--------------------------|---------------:|:------------------:|
+| verification_status_joint |       0.390452 | LogisticRegression |
+| purpose                   |       0.394898 | LogisticRegression |
+| _full_model_              |       0.394918 | LogisticRegression |
+| sub_grade_E               |       0.394918 | LogisticRegression |
+| sub_grade_G               |       0.402588 | LogisticRegression |
+| mths_since_recent_inq     |       0.408197 | LogisticRegression |
+| emp_length                |       0.41058  | LogisticRegression |
+| verification_status       |       0.415257 | LogisticRegression |
+| total_rec_late_fee        |       0.433648 | LogisticRegression |
+| _baseline_                |       0.498272 | LogisticRegression |
+    
 
 
 ```python
-# vi_logit.plot(max_vars=10)
+fig_vi_logit = vi_logit.plot(max_vars=10)
+fig_vi_logit
+plotly.io.write_json(go.Figure(vi_logit.plot(max_vars=10)),"C:\\Users\\piotr\\Desktop\\Git\\nsvceodeveloper\\static\\plotly\\vi_logit.json") # wywalic
 ```
+{{< load-plotly >}}
+{{< plotly json="/plotly/vi_logit.json" height="600px" >}}
 
 
 ```python
-# pdp_num = exp_logit.model_profile(type = 'partial', label="pdp")
-# ale_num = exp_logit.model_profile(type = 'accumulated', label="ale")
-# pdp_num.plot(ale_num)
+pdp_num = exp_logit.model_profile(type = 'partial', label="pdp")
+ale_num = exp_logit.model_profile(type = 'accumulated', label="ale")
+pdp_num.plot(ale_num))
 ```
+
+    Calculating ceteris paribus: 100%|███████████████████████████████████████████████████████| 8/8 [00:00<00:00, 40.20it/s]
+    Calculating ceteris paribus: 100%|███████████████████████████████████████████████████████| 8/8 [00:00<00:00, 22.66it/s]
+    Calculating accumulated dependency: 100%|████████████████████████████████████████████████| 8/8 [00:01<00:00,  6.32it/s]
+    
+
+
+{{< load-plotly >}}
+{{< plotly json="/plotly/pdp_num_logit.json" height="600px" >}}
 
 
 ```python
-# score_val_logit = cross_val_score(clf_logit, X_test, y_test, cv=5)
-# score_val_logit
+score_val_logit = cross_val_score(clf_logit, X_test, y_test, cv=5)
+score_val_logit
 ```
+
+
+
+
+    array([0.79354767, 0.79431895, 0.79457187, 0.79484059, 0.79482478])
+
+
 
 
 ```python
-# conf_m_logit = metrics.confusion_matrix(y_test, y_pred_logit)
-# conf_m_logit
+conf_m_logit = metrics.confusion_matrix(y_test, y_pred_logit)
+conf_m_logit
 ```
+
+
+
+
+    array([[247350,   2162],
+           [ 62831,   3973]], dtype=int64)
+
+
 
 
 ```python
-# plot_confusion_matrix(clf_logit, X_test, y_test) 
-# plt.show()  
+plot_confusion_matrix(clf_logit, X_test, y_test) 
+plt.show()  
 ```
+
+
+    
+![png](./index_41_0.png)
+    
+
