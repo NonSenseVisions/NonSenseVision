@@ -512,6 +512,7 @@ fig_vi_logit = vi_logit.plot(max_vars=10)
 fig_vi_logit
 plotly.io.write_json(go.Figure(vi_logit.plot(max_vars=10)),"C:\\Users\\piotr\\Desktop\\Git\\nsvceodeveloper\\static\\plotly\\vi_logit.json") # wywalic
 ```
+
 {{< load-plotly >}}
 {{< plotly json="/plotly/vi_logit.json" height="600px" >}}
 
@@ -525,11 +526,9 @@ pdp_num.plot(ale_num))
     Calculating ceteris paribus: 100%|███████████████████████████████████████████████████████| 8/8 [00:00<00:00, 40.20it/s]
     Calculating ceteris paribus: 100%|███████████████████████████████████████████████████████| 8/8 [00:00<00:00, 22.66it/s]
     Calculating accumulated dependency: 100%|████████████████████████████████████████████████| 8/8 [00:01<00:00,  6.32it/s]
-    
-
-
+  
 {{< load-plotly >}}
-{{< plotly json="/plotly/pdp_num_logit.json" height="600px" >}}
+{{< plotly json="/plotly/pdp_num_logit.json" height="1200px" >}}
 
 
 ```python
