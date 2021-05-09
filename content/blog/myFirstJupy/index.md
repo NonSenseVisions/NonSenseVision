@@ -32,11 +32,6 @@ projects: []
 
 
 ```python
-import plotly
-```
-
-
-```python
 import warnings
 warnings.filterwarnings('ignore')
 ##
@@ -479,7 +474,6 @@ print(th.md_table(mp_logit.result,formats={-1: 'c'}))
 ```python
 fig = mp_logit.plot()
 fig
-plotly.io.write_json(fig,"C:\\Users\\piotr\\Desktop\\Git\\nsvceodeveloper\\static\\plotly\\mp_logit.json") # wywalic
 ```
 
 {{< load-plotly >}}
