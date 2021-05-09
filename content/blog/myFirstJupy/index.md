@@ -83,7 +83,6 @@ df.head()
       <td>1.4</td>
       <td>0.2</td>
       <td>setosa</td>
-      <td>1</td>
     </tr>
     <tr>
       <th>1</th>
@@ -92,7 +91,6 @@ df.head()
       <td>1.4</td>
       <td>0.2</td>
       <td>setosa</td>
-      <td>1</td>
     </tr>
     <tr>
       <th>2</th>
@@ -101,7 +99,6 @@ df.head()
       <td>1.3</td>
       <td>0.2</td>
       <td>setosa</td>
-      <td>1</td>
     </tr>
     <tr>
       <th>3</th>
@@ -110,7 +107,6 @@ df.head()
       <td>1.5</td>
       <td>0.2</td>
       <td>setosa</td>
-      <td>1</td>
     </tr>
     <tr>
       <th>4</th>
@@ -119,7 +115,6 @@ df.head()
       <td>1.4</td>
       <td>0.2</td>
       <td>setosa</td>
-      <td>1</td>
     </tr>
   </tbody>
 </table>
