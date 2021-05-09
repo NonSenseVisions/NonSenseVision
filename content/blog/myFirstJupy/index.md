@@ -255,10 +255,10 @@ df_pca = X[X_pca]
 print(th.md_table(pca_result,formats={-1: 'c'}))
 ```
 
-    |   PCA_Value | Variable     |
-    |------------:|:------------:|
-    |     3.12431 | petal_length |
-    |     1.62196 | sepal_length |
-    |     1.42445 | species_id   |
-    |     1.31786 | petal_width  |
-    |     1.00685 | sepal_width  |
+|   PCA_Value | Variable     |
+|------------:|:------------:|
+|     3.12431 | petal_length |
+|     1.62196 | sepal_length |
+|     1.42445 | species_id   |
+|     1.31786 | petal_width  |
+|     1.00685 | sepal_width  |
