@@ -67,7 +67,6 @@ df.head()
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th></th>
       <th>sepal_length</th>
       <th>sepal_width</th>
       <th>petal_length</th>
