@@ -45,9 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/m-piotr/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "nsvceodeveloper@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,6 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Piotr has been associated with the Data Science and Machine Learning industry for over 6 years, and during his career he has completed many commercial projects for international clients. Currently, he is a Senior Machine Learning Developer and runs freelance projects on the basis of Quantitative Finance in the technology stack: R, Python. In his spare time, he is passionate about off-road driving, especially long expeditions to the Balkans.
