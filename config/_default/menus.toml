@@ -24,11 +24,11 @@
   weight = 40
 
 [[main]]
+  name = "CV"
+  url = "files/bigdatascientisteng.pdf"
+  weight = 50
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
-
-[[main]]
-  name = "CV"
-  url = "files/bigdatascientisteng.pdf"
-  weight = 70
