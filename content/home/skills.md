@@ -35,11 +35,6 @@ subtitle = ""
   name = "Linux"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics" 
-
-[[feature]]
   icon = "stata"
   icon_pack = "custom"
   name = "Stata"
