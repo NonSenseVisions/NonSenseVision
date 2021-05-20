@@ -39,6 +39,11 @@ subtitle = ""
   icon_pack = "custom"
   name = "Stata"
 
+[[feature]]
+  icon = "sas"
+  icon_pack = "custom"
+  name = "SAS"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
