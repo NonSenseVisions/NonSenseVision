@@ -44,6 +44,11 @@ subtitle = ""
   icon_pack = "custom"
   name = "SAS"
 
+[[feature]]
+  icon = "powerBI"
+  icon_pack = "custom"
+  name = "Power BI"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
