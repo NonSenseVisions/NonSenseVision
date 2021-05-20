@@ -29,6 +29,11 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
 
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
