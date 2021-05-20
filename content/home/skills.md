@@ -20,19 +20,29 @@ subtitle = ""
   name = "R"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics" 
-  
-[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
 
 [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+
+[[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics" 
+
+[[feature]]
+  icon = "stata"
+  icon_pack = "custom"
+  name = "Stata"
 
 # Uncomment to use emoji icons.
 # [[feature]]
