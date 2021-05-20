@@ -47,8 +47,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/m-piotr/
-- icon: google-scholar
-  icon_pack: ai
+- icon: twitter-square
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
