@@ -115,7 +115,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Call Me", link = ""},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = ""},
   {icon = "discord", icon_pack = "fab", name = "Call Me", link = ""},
-  {icon = "slack", icon_pack = "fab", name = "DM Me", link = ""}
+  {icon = "slack", icon_pack = "fab", name = "DM Me", link = ""},
   ]
 
 ############################

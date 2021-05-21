@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Skills Programming"
-subtitle = ""
 
 # Showcase personal skills or business features.
 # 
