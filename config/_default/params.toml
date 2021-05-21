@@ -97,7 +97,7 @@ appointment_url = "https://calendar.google.com/calendar/u/0?cid=bnN2Y2VvZGV2ZWxv
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "skype", icon_pack = "fab", name = "Call Me", link = "skype:nsvceodeveloper@gmail.com"},
+  {icon = "skype", icon_pack = "fab", name = "Call Me", link = "https://join.skype.com/invite/j0uGSpPtx7De"},
   {icon = "discord", icon_pack = "fab", name = "Call Me", link = "https://discord.gg/NMNb2KZN"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/NsvCeoDeveloper"},
   ]
