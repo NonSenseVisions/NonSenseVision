@@ -45,7 +45,7 @@ subtitle = ""
   name = "Kubernetes"
 
 [[feature]]
-  icon = "stata"
+  icon = "sas"
   icon_pack = "custom"
   name = "Stata"
 
@@ -53,6 +53,16 @@ subtitle = ""
   icon = "sas"
   icon_pack = "custom"
   name = "SAS"
+
+[[feature]]
+  icon = "sas"
+  icon_pack = "custom"
+  name = "Statistica"
+
+[[feature]]
+  icon = "powerbi"
+  icon_pack = "custom"
+  name = "Power BI"
 
 [[feature]]
   icon = "powerbi"
