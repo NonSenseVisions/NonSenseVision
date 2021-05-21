@@ -60,12 +60,12 @@ subtitle = ""
   name = "Statistica"
 
 [[feature]]
-  icon = "powerbi"
+  icon = "powerbis"
   icon_pack = "custom"
   name = "Power BI"
 
 [[feature]]
-  icon = "powerbi"
+  icon = "powerbis"
   icon_pack = "custom"
   name = "Power BI"
 
