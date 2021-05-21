@@ -55,7 +55,7 @@ subtitle = ""
   name = "SAS"
 
 [[feature]]
-  icon = "powerBI"
+  icon = "powerbi"
   icon_pack = "custom"
   name = "Power BI"
 
