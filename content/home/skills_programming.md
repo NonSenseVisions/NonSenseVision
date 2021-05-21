@@ -14,64 +14,34 @@ title = "Skills Programming"
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "data_science"
+  icon_pack = "custom"
   name = "R"
   
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = "data_science"
+  icon_pack = "custom"
   name = "Python"
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
+  icon = "data_science"
+  icon_pack = "custom"
   name = "Java"
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
+  icon = "data_science"
+  icon_pack = "custom"
   name = "Linux"
 
 [[feature]]
-  icon = "docker"
-  icon_pack = "fab"
+  icon = "data_science"
+  icon_pack = "custom"
   name = "Docker"
 
 [[feature]]
-  icon = "kubernetes"
+  icon = "data_science"
   icon_pack = "custom"
   name = "Kubernetes"
-
-[[feature]]
-  icon = "sas"
-  icon_pack = "custom"
-  name = "SAS"
-
-[[feature]]
-  icon = "stata"
-  icon_pack = "custom"
-  name = "Stata"
-
-[[feature]]
-  icon = "sas"
-  icon_pack = "custom"
-  name = "Statistica"
-
-[[feature]]
-  icon = "powerbis"
-  icon_pack = "custom"
-  name = "Power BI"
-
-[[feature]]
-  icon = "tableau"
-  icon_pack = "custom"
-  name = "Tableau"
-
-[[feature]]
-  icon = "excel"
-  icon_pack = "custom"
-  name = "Excel"
 
 # Uncomment to use emoji icons.
 # [[feature]]
