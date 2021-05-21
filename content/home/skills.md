@@ -65,9 +65,14 @@ subtitle = ""
   name = "Power BI"
 
 [[feature]]
-  icon = "powerbis"
+  icon = "tableau"
   icon_pack = "custom"
-  name = "Power BI"
+  name = "Tableau"
+
+[[feature]]
+  icon = "excel"
+  icon_pack = "custom"
+  name = "Excel"
 
 # Uncomment to use emoji icons.
 # [[feature]]
