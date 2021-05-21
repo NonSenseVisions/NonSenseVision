@@ -40,8 +40,8 @@ subtitle = ""
   name = "Docker"
 
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
+  icon = "kubernetes"
+  icon_pack = "custom"
   name = "Kubernetes"
 
 [[feature]]
