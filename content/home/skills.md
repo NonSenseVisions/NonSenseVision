@@ -35,6 +35,16 @@ subtitle = ""
   name = "Linux"
 
 [[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Kubernetes"
+
+[[feature]]
   icon = "stata"
   icon_pack = "custom"
   name = "Stata"
