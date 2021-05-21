@@ -47,12 +47,12 @@ subtitle = ""
 [[feature]]
   icon = "sas"
   icon_pack = "custom"
-  name = "Stata"
+  name = "SAS"
 
 [[feature]]
-  icon = "sas"
+  icon = "stata"
   icon_pack = "custom"
-  name = "SAS"
+  name = "Stata"
 
 [[feature]]
   icon = "sas"
