@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Skills Programming"
+title = "Skills Data"
 
 # Showcase personal skills or business features.
 # 
@@ -16,32 +16,32 @@ title = "Skills Programming"
 [[feature]]
   icon = "data_science"
   icon_pack = "custom"
-  name = "R"
+  name = "Data Science"
   
 [[feature]]
   icon = "data_science"
   icon_pack = "custom"
-  name = "Python"
+  name = "Machine Learning"
+
+[[feature]]
+  icon = "deep_learning"
+  icon_pack = "custom"
+  name = "Deep Learning"
 
 [[feature]]
   icon = "data_science"
   icon_pack = "custom"
-  name = "Java"
+  name = "Natural Language Process"
 
 [[feature]]
   icon = "data_science"
   icon_pack = "custom"
-  name = "Linux"
+  name = "Statistics"
 
 [[feature]]
-  icon = "data_science"
+  icon = "econometrics"
   icon_pack = "custom"
-  name = "Docker"
-
-[[feature]]
-  icon = "data_science"
-  icon_pack = "custom"
-  name = "Kubernetes"
+  name = "Econometrics"
 
 # Uncomment to use emoji icons.
 # [[feature]]
