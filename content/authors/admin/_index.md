@@ -49,7 +49,7 @@ social:
   link: https://www.linkedin.com/in/m-piotr
 - icon: twitter-square
   icon_pack: fab
-  link: 
+  link: https://twitter.com/NsvCeoDeveloper
 - icon: github
   icon_pack: fab
   link: https://github.com/NsvCeoDeveloper
