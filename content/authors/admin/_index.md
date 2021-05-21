@@ -46,10 +46,10 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/m-piotr/
+  link: https://www.linkedin.com/in/m-piotr
 - icon: twitter-square
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/NsvCeoDeveloper
