@@ -19,7 +19,7 @@ title = "Skills Data"
   name = "Data Science"
   
 [[feature]]
-  icon = "data_science"
+  icon = "ml"
   icon_pack = "custom"
   name = "Machine Learning"
 
@@ -29,12 +29,12 @@ title = "Skills Data"
   name = "Deep Learning"
 
 [[feature]]
-  icon = "data_science"
+  icon = "nlp"
   icon_pack = "custom"
   name = "Natural Language Process"
 
 [[feature]]
-  icon = "data_science"
+  icon = "statistics"
   icon_pack = "custom"
   name = "Statistics"
 
