@@ -25,8 +25,7 @@ date_format = "Jan 2006"
   url = "https://www.bluecourses.com/courses/course-v1:bluecourses+BC2+September2019/about"
   certificate_url = "https://www.bluecourses.com/certificates/4c135e0c0cd744dda1679fdef67ffce0"
   date_start = "2021-03-01"
-  date_end = ""
-  description = ""
+  description = "The course concludes by reviewing stress testing. Modeling methods, performance measurement and benchmarks are discussed into great detail. The course provides a sound mix of both theoretical and technical insights, as well as practical implementation details. These are illustrated by several real-life case studies and examples. The course also features code examples in R, Python and SAS. Throughout the course, the instructors also extenisvely report upon their research and industry experience."
 
 [[item]]
   organization = "BlueCourses"
@@ -35,7 +34,7 @@ date_format = "Jan 2006"
   url = "https://www.bluecourses.com/courses/course-v1:bluecourses+BC1+September2019/about"
   certificate_url = "https://www.bluecourses.com/certificates/fdaa7393d1d44f24b1528c70cd188597"
   date_start = "2021-03-01"
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "The course provides a sound mix of both theoretical and technical insights, as well as practical implementation details. These are illustrated by several real-life case studies and examples. The course also features code examples in R, Python and SAS. Throughout the course, the instructors also extenisvely report upon their research and industry experience."
   
 [[item]]
   organization = "QuantInsti"
