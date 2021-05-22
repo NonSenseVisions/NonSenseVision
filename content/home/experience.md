@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.devs-mentoring.pl"
   location = "Warsaw"
   date_start = "2021-05-01"
-  description = """"""
+  description = """Main"""
 
 [[experience]]
   title = "Senior Machine Learning "
