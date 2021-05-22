@@ -19,6 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "CEO"
+  company = "Non Sense Vision"
+  company_url = "https://nsvceodeveloper.netlify.app"
+  location = "Warsaw"
+  date_start = "2020-12-01"
+  description = """"""
+
+[[experience]]
+  title = "Data Scientist"
+  company = "Plenti"
+  company_url = "https://plenti.app/pl"
+  location = "Warsaw"
+  date_start = "2020-12-01"
+  date_end = "2021-02-01"
+  description = """"""
+
+[[experience]]
   title = "Data Science Specialist in Credit Risk"
   company = "Bank Pekao S.A."
   company_url = "https://www.rbinternational.com.pl"
