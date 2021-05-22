@@ -39,13 +39,11 @@ date_format = "Jan 2006"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization = "QuantInsti"
+  organization_url = "https://quantra.quantinsti.com"
+  title = "Python For Trading"
+  url = "https://quantra.quantinsti.com/course/python-for-trading"
+  date_start = "2021-01-01"
+  description = "An essential course for quants and finance-technology enthusiasts. Get started in Python programming and learn to use it in financial markets. It covers Python data structures, Python for data analysis, dealing with financial data using Python, generating trading signals among other topics."
 
 +++
