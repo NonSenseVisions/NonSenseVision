@@ -63,4 +63,13 @@ date_format = "Jan 2006"
   date_start = "2021-01-01"
   description = "An essential course for quants and finance-technology enthusiasts. Get started in Python programming and learn to use it in financial markets. It covers Python data structures, Python for data analysis, dealing with financial data using Python, generating trading signals among other topics."
 
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "R Programming Track"
+  url = "https://www.datacamp.com/tracks/r-programmer"
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/a93718e23d6f1ab1113b0696e6b7716cdab4db78"
+  date_start = "2020-12-01"
+  description = "Learn the most popular data-science-specific language: R! This learning path provides a strong foundation of skills and knowledge on which to build your coding resume."
+
 +++
