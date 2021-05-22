@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Warsaw"
   date_start = "2018-11-01"
   date_end = "2019-01-01"
-  description = """"""
+  description = """Automation of data preparation, data scraping and downloading data from the API using R and Python. Creating new working files regarding analysis and data processing along with process automation. Support for existing dashboards and create new ones using Tableau and Power BI."""
 
 +++
