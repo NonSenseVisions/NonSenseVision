@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.devs-mentoring.pl"
   location = "Warsaw"
   date_start = "2021-05-01"
-  description = """Main"""
+  description = """"""
 
 [[experience]]
   title = "Senior Machine Learning "
@@ -32,7 +32,15 @@ date_format = "Jan 2006"
   company_url = "https://www.best.com.pl"
   location = "Gdynia"
   date_start = "2021-03-01"
-  description = """"""
+  description = """Rebuilding business models in Python using mlflow and H2O:
+- classification models related to the repayment of the debt collection process
+- implementing scikit-learn machine learning pipelines with CI/CD
+
+Working in Natural Language Processing (NLP) domain with Python. Responsibilities:
+- developing advanced machine learning and deep learning algorithms
+- implementing machine learning pipelines in text mining
+- search engine based on deep learning (using siamese networks)
+- text classification (multilabel classification)"""
 
 [[experience]]
   title = "CEO"
