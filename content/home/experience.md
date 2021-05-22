@@ -19,6 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Data Science Specialist in Credit Risk"
+  company = "PKO Bank Polski"
+  company_url = "https://www.pkobp.pl"
+  location = "Warsaw"
+  date_start = "2019-03-01"
+  date_end = "2020-01-01"
+  description = """Work on the largest data sets in the Polish banking sector (Big Data). Model quality monitoring applications on production using SAS and R. Analysis of anomalies related to model monitoring application. Automatic reporting of monitored portfolios in SAS and Python."""
+
+[[experience]]
+  title = "Data Science Specialist in Credit Risk"
+  company = "PKO Bank Polski"
+  company_url = "https://www.pkobp.pl"
+  location = "Warsaw"
+  date_start = "2019-03-01"
+  date_end = "2020-01-01"
+  description = """Work on the largest data sets in the Polish banking sector (Big Data). Model quality monitoring applications on production using SAS and R. Analysis of anomalies related to model monitoring application. Automatic reporting of monitored portfolios in SAS and Python."""
+
+[[experience]]
   title = "Freelancer "
   company = "Self-Employed"
   date_start = "2016-01-01"
@@ -39,7 +57,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data Science Assistant"
   company = "Publicis Media"
-  company_url = "http://publicismedia.pl/"
+  company_url = "http://publicismedia.pl"
   location = "Warsaw"
   date_start = "2018-11-01"
   date_end = "2019-01-01"
