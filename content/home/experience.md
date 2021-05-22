@@ -26,15 +26,15 @@ date_format = "Jan 2006"
   description = """Work for research and commercial teams focused on R&D sectors. Implementation of models statistical, machine learning and deep learning related to streaming data
   time series, survey data, and panel data in R and Python. Construction and management
   backend and frontend of applications built in Shiny with support for previously built models. Implementation econometric analyzes in STATA, SPSS and Statistica.""" 
-  Responsibilities include:
+#  Responsibilities include:
 
-  * Property valuation based on spatial hedonic models. (R, Shiny)
-  * Trading bot for cryptocurrency based on scalping strategy. (R, Rccp)
-  * Application for deployment forex strategy based on streaming data. (C++, R)
-  * Dashboard for impact of climate change on ceny property. (R, Shiny)
-  * Analytics system for optimisation portfolio on forex. (C++, R) 
-  * Analyzes of fetal carcinomas. (STATA, SPSS, R)
-  * Others: mini aplications, dashboards and analyzes for the financial industry, pharmacy and real estate market.
+#  * Property valuation based on spatial hedonic models. (R, Shiny)
+#  * Trading bot for cryptocurrency based on scalping strategy. (R, Rccp)
+#  * Application for deployment forex strategy based on streaming data. (C++, R)
+#  * Dashboard for impact of climate change on ceny property. (R, Shiny)
+#  * Analytics system for optimisation portfolio on forex. (C++, R) 
+#  * Analyzes of fetal carcinomas. (STATA, SPSS, R)
+#  * Others: mini aplications, dashboards and analyzes for the financial industry, pharmacy and real #estate market.
 
 [[experience]]
   title = "Data Science Assistant"
