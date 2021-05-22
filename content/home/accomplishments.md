@@ -36,10 +36,10 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Sages"
-  organization_url = "https://www.edx.org"
+  organization_url = "https://www.sages.pl"
   title = "Bootcamp Data Science in Python"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  date_start = "2018-09-25"
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  url = "https://www.kodolamacz.pl/bootcamp-datascience"
+  date_start = "2018-09-01"
+  description = "Data Science is the science of data. It is an interdisciplinary field dealing with the methods and tools of analysis and, in general, extracting point knowledge from them, allowing for solving business result points."
 
 +++
