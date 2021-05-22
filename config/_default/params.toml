@@ -110,7 +110,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "NsvCeoDeveloper"
+twitter = ""
 
 ############################
 ## Regional Settings
@@ -246,7 +246,6 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
-
 
 [params]
     custom_css = ["css/custom.css"]
