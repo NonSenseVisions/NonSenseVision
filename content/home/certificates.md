@@ -41,6 +41,7 @@ date_format = "Jan 2006"
   organization_url = "https://quantra.quantinsti.com"
   title = "Python For Trading"
   url = "https://quantra.quantinsti.com/course/python-for-trading"
+  certificate_url = "assets/certification/Quantra_Certificate.pdf"
   date_start = "2021-01-01"
   description = "An essential course for quants and finance-technology enthusiasts. Get started in Python programming and learn to use it in financial markets. It covers Python data structures, Python for data analysis, dealing with financial data using Python, generating trading signals among other topics."
 
