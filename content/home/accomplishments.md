@@ -23,9 +23,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.coursera.org"
   title = "Neural Networks and Deep Learning"
   url = ""
-  # certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
-  date_end = ""
   description = ""
 
 [[item]]
@@ -33,9 +31,7 @@ date_format = "Jan 2006"
   organization_url = "https://www.edx.org"
   title = "Blockchain Fundamentals"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
   date_start = "2018-03-01"
-  # date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
   
 [[item]]
@@ -43,7 +39,6 @@ date_format = "Jan 2006"
   organization_url = "https://www.edx.org"
   title = "Bootcamp Data Science in Python"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  # certificate_url = "https://www.edx.org"
   date_start = "2018-09-25"
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
