@@ -19,20 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  date_start = "2018-10-01"
-  description = ""
+  organization = "Kodilla"
+  organization_url = "https://kodilla.com"
+  title = "Bootcamp Python Developer"
+  url = "https://kodilla.com/pl/bootcamp/python?&editionId=535"
+  date_start = "2020-09-01"
+  description = "Python Developer is 4 months of learning and practical tasks under the guidance of a Mentor. During this time, you will learn exactly the issues that will allow you to start your adventure with programming."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  date_start = "2018-03-01"
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Kodilla"
+  organization_url = "https://kodilla.com"
+  title = "Bootcamp Java Developer"
+  url = "https://kodilla.com/pl/bootcamp/java?type=jdp&hr=8&editionId=532"
+  date_start = "2020-09-01"
+  description = "Java Developer Plus is 11 months of learning and practical tasks under the guidance of a Mentor. During this time, you will learn exactly the issues that will allow you to start your adventure with programming."
   
 [[item]]
   organization = "Sages"
