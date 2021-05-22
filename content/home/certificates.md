@@ -23,9 +23,18 @@ date_format = "Jan 2006"
   organization_url = "https://www.linkedin.com"
   title = "Master R for Data Science"
   url = "https://www.linkedin.com/learning/paths/master-r-for-data-science?u=4874674"
-  certificate_url = "https://www.linkedin.com/learning/paths/master-r-for-data-science"
+#  certificate_url = "https://www.linkedin.com/learning/paths/master-r-for-data-science"
   date_start = "2021-05-01"
   description = "Learn the most popular data-science-specific language: R! This learning path provides a strong foundation of skills and knowledge on which to build your coding resume."
+
+[[item]]
+  organization = "LinkedIn"
+  organization_url = "https://www.linkedin.com"
+  title = "Advance Your Skills as an R Expert"
+  url = "https://www.linkedin.com/learning/paths/advance-your-skills-as-an-r-expert?u=4874674"
+#  certificate_url = "https://www.linkedin.com/learning/paths/master-r-for-data-science"
+  date_start = "2021-05-01"
+  description = "The R language is one of the top two languages you need to learn if you want build the strongest career path possible in data science. (The other is Python.) After mastering the basics of R, take your skills in data science into highly valued areas of specialty with this learning path."
 
 [[item]]
   organization = "BlueCourses"
