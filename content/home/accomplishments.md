@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Bootcamp Data Science in Python"
   url = "https://www.kodolamacz.pl/python-w-analizie-danych/"
   certificate_url = ""
-  date_start = "Sep 2018"
+  date_start = ""
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
 
 +++
