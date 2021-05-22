@@ -28,25 +28,19 @@ education:
   courses:
   - course: PgD in Data Science & Big Data Managment 
     institution: Akademia Leona Koźmińskiego
-    year: 2022
   - course: PgD in Academy of Analytics with SAS, R & Python
     institution: SGH Warsaw School of Economics
-    year: 2021
   - course: PgD in Data Science in Business Applications with R
     institution: Uniwersytet Warszawski
-    year: 2021
   - course: PgD in Economic Data Analysis with VBA
     institution: Uniwersytet Warszawski
-    year: 2021
   - course: MSc in Computer Science and Econometrics
     institution: Uniwersytet Warszawski
-    year: 2022
   - course: MSc in Economic Sciences
     institution: Uniwersytet Warszawski
-    year: 2022
   - course: BSc in Economic Sciences
     institution: Politechnika Warszawska
-    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
