@@ -20,12 +20,21 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Data Science Specialist in Credit Risk"
-  company = "PKO Bank Polski"
-  company_url = "https://www.pkobp.pl"
+  company = "Bank Pekao S.A."
+  company_url = "https://www.rbinternational.com.pl"
   location = "Warsaw"
-  date_start = "2019-03-01"
-  date_end = "2020-01-01"
-  description = """Work on the largest data sets in the Polish banking sector (Big Data). Model quality monitoring applications on production using SAS and R. Analysis of anomalies related to model monitoring application. Automatic reporting of monitored portfolios in SAS and Python."""
+  date_start = "2020-09-01"
+  date_end = "2020-12-01"
+  description = """Analysis of business processes and integration of data mart between systems and collecting requirements for new database modeling for LGD models. Cooperation with substantive departments in the field of defining reporting requirements."""
+
+[[experience]]
+  title = "Chief Risk Management Specialist"
+  company = "Bank Pekao S.A."
+  company_url = "https://www.pekao.com.pl"
+  location = "Warsaw"
+  date_start = "2020-02-01"
+  date_end = "2020-08-01"
+  description = """Generating cyclical reports using Oracle Database, SAS and Python. Supporting the development of automation in the area of ​​capital requirement calculation. Implementation of projects enabling the implementation of a new system for calculating the capital requirement. Implementation of the Scrum methodology to the team and creation of schemes in Jira and Confluence along with the subsequent administration of data processes."""
 
 [[experience]]
   title = "Data Science Specialist in Credit Risk"
