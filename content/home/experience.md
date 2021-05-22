@@ -69,7 +69,7 @@ Working in Natural Language Processing (NLP) domain with Python. Responsibilitie
   location = "Warsaw"
   date_start = "2020-12-01"
   date_end = "2021-02-01"
-  description = """"""
+  description = """Implementation of the project with NCBiR, Voucher for Innovations. Using Spatial Econometrics and Advanced Time Series Analysis. Also by building ASAP reporting dashboards using Google Cloud Platform and Spark."""
 
 [[experience]]
   title = "Data Science Specialist in Credit Risk"
