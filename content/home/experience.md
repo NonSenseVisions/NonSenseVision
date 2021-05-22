@@ -39,6 +39,15 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
+
+[[experience]]
+  title = "Data Science Assistant"
+  company = "Publicis Media"
+  company_url = "http://publicismedia.pl/"
+  location = "Warsaw"
+  date_start = "2018-11-01"
+  date_end = "2019-01-01"
+  description = """"""
 
 +++
