@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   backend and frontend of applications built in Shiny with support for previously built models. Implementation econometric analyzes in STATA, SPSS and Statistica.""" 
   Responsibilities include:
 
-  * Property valuation based on spatial hedonic models. (R, Shiny)
+* Property valuation based on spatial hedonic models. (R, Shiny)
 #  * Trading bot for cryptocurrency based on scalping strategy. (R, Rccp)
 #  * Application for deployment forex strategy based on streaming data. (C++, R)
 #  * Dashboard for impact of climate change on ceny property. (R, Shiny)
