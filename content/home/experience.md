@@ -19,6 +19,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Co-Founder"
+  company = "Devs-Mentoring"
+  company_url = "https://www.devs-mentoring.pl"
+  location = "Warsaw"
+  date_start = "2021-05-01"
+  description = """"""
+
+[[experience]]
+  title = "Senior Machine Learning "
+  company = "BEST S.A."
+  company_url = "https://www.best.com.pl"
+  location = "Gdynia"
+  date_start = "2021-03-01"
+  description = """"""
+
+[[experience]]
   title = "CEO"
   company = "Non Sense Vision"
   company_url = "https://nsvceodeveloper.netlify.app"
