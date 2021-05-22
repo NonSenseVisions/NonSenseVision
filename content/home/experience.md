@@ -31,6 +31,7 @@ date_format = "Jan 2006"
 - deep learning
 - natural language process 
 - artificial intelligence applications
+
 I work in R and Python programming language.
 I am also the maintainer and trainer of Data Science Mentoring Path organised by Devs-Mentoring. I manage whole teaching process and conduct classes on various topics since 2021."""
 
