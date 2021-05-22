@@ -57,7 +57,10 @@ Working in Natural Language Processing (NLP) domain with Python. Responsibilitie
   company_url = "https://nsvceodeveloper.netlify.app"
   location = "Warsaw"
   date_start = "2020-12-01"
-  description = """"""
+  description = """“Artificial Intelligence, deep learning, machine learning — whatever you’re doing if you don’t understand it — learn it. Because otherwise you’re going to be a dinosaur within 3 years.” 
+  Mark Cuban
+
+  Our mission is to help companies build an efficient, reliable, and performant data platform and organizations using our skills and experience."""
 
 [[experience]]
   title = "Data Scientist"
