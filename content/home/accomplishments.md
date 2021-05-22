@@ -40,8 +40,12 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Sages"
+  organization_url = "https://www.edx.org"
   title = "Bootcamp Data Science in Python"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
   date_start = "2018-09-25"
-
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
 
 +++
