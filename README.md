@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about <strong>R, Python and Data Science & Machine Learning </strong>
 - 🌱 I’m currently learning <strong> Cloud Computing Stack </strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="nsvceodeveloper@gmail.com" target="_blank">Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="https://discord.gg/NMNb2KZN" target="_blank">Discord</a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NsvCeoDeveloper&show_icons=true" alt="NsvCeoDeveloper">
