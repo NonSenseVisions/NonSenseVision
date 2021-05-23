@@ -72,7 +72,6 @@ highlight_name: false
 user_groups:
 - Machine Learning Developer
 - Data Scientist
-- Natural Language Process
 ---
 
 Piotr has been associated with the Data Science and Machine Learning industry for over 6 years, and during his career he has completed many commercial projects for international clients. Currently, he is a Senior Machine Learning Developer and runs freelance projects on the basis of Quantitative Finance in the technology stack: R, Python. In his spare time, he is passionate about off-road driving, especially long expeditions to the Balkans.
