@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align="center">Hi there, I am Falansh Siddh 👋</h1>
+<hi align="center">Hi there, I am Piotr Malicki 👋</h1>
 
 - 💬 Ask me about <strong>Python, C++ and Data Structures & Algorithms </strong>
 - 🌱 I’m currently learning <strong>MERN Stack</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank">LinkedIn</a> | <a href="falansh.rs@gmail.com" target="_blank">Email</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="nsvceodeveloper@gmail.com" target="_blank">Email</a>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fsiddh&show_icons=true" alt="fsiddh">
+  <img src="https://github-readme-stats.vercel.app/api?username=NsvCeoDeveloper&show_icons=true" alt="fsiddh">
 </p>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsiddh&show_icons=true&locale=en&layout=compact" alt="fsiddh" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NsvCeoDeveloper&show_icons=true&locale=en&layout=compact" alt="NsvCeoDeveloper" /></p>
 
 
 <p align ="center">
-  <a href="https://www.linkedin.com/in/falansh-siddh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
+  <a href="https://www.linkedin.com/in/m-piotr" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="Soon" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
 </p>
