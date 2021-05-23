@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about <strong>R, Python and Data Science & Machine Learning </strong>
 - 🌱 I’m currently learning <strong> Cloud Computing Stack </strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="https://discord.gg/NMNb2KZN" target="_blank">Discord</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="https://discord.gg/NMNb2KZN" target="_blank">Discord</a> | <a href="https://join.skype.com/invite/j0uGSpPtx7De" target="_blank">Skype</a>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=NsvCeoDeveloper&show_icons=true" alt="NsvCeoDeveloper">
@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 
 <p align ="center">
-  <a href="https://www.linkedin.com/in/m-piotr" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
+  <a href="https://nsvdeveloper.netlify.app" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="background-color:white;" height="30"      width="30"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="Soon" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
 </p>
 
 
