@@ -10,7 +10,7 @@ role: Machine Learning Developer
 
 # Organizations/Affiliations
 organizations:
-- name: Non Sense Vision 
+- name: NonSenseVision 
 - name: Devs-Mentoring
   url: "https://www.devs-mentoring.pl"
 
