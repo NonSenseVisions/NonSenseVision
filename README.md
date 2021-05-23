@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 <hi align="center">Hi there, I am Piotr Malicki 👋</h1>
 
-- 💬 Ask me about <strong>Python, C++ and Data Structures & Algorithms </strong>
-- 🌱 I’m currently learning <strong>MERN Stack</strong>
+- 💬 Ask me about <strong>R, Python and Data Science & Machine Learning </strong>
+- 🌱 I’m currently learning <strong> Cloud Computing Stack </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/m-piotr" target="_blank">LinkedIn</a> | <a href="nsvceodeveloper@gmail.com" target="_blank">Email</a>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NsvCeoDeveloper&show_icons=true" alt="fsiddh">
+  <img src="https://github-readme-stats.vercel.app/api?username=NsvCeoDeveloper&show_icons=true" alt="NsvCeoDeveloper">
 </p>
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NsvCeoDeveloper&show_icons=true&locale=en&layout=compact" alt="NsvCeoDeveloper" /></p>
