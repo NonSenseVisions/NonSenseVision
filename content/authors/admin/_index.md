@@ -12,7 +12,7 @@ role: Machine Learning Developer
 organizations:
 - name: Non Sense Vision 
 - name: Devs-Mentoring
-  url: "https://www.devs-mentoring.pl/"
+  url: "https://www.devs-mentoring.pl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -58,7 +58,7 @@ social:
   link: https://twitter.com/NsvCeoDeveloper
 - icon: github
   icon_pack: fab
-  link: https://github.com/NsvCeoDeveloper
+  link: https://github.com/NSVDeveloper
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
